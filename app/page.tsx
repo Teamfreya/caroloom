@@ -184,9 +184,9 @@ function CaroloomLandingPageComponent() {
               <p className="mx-auto max-w-[700px] text-gray-400 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
                 For any inquiries, feel free to contact us at
                 <a 
-                  href="mailto:team@freyaapp.dk" 
+                  href="mailto:Support@caroloom.com" 
                   className="text-primary font-medium underline ml-1">
-                  team@freyaapp.dk
+                  Support@caroloom.com
                 </a>.
               </p>
             </div>
