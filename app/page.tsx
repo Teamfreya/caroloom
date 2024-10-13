@@ -146,6 +146,11 @@ function CaroloomLandingPageComponent() {
                 description="AI-powered healthcare solutions for clinics in Sweden."
                 link="https://www.klinikgpt.se"
               />
+              <PortfolioCard
+                title="AIHeadshots"
+                description="Professional AI Edited Photographs."
+                link="https://www.aiheadshot.dk"                
+              />
                 <PortfolioCard
                   title="Ai Til Arbjde"
                   description="AI Prompts for the workplace"
