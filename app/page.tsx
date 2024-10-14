@@ -147,6 +147,11 @@ function CaroloomLandingPageComponent() {
                 link="https://www.klinikgpt.se"
               />
               <PortfolioCard
+                title="Jurist GPT TBD"
+                description="Get Instant Answers to Your Legal Questions."
+                link="https://www.juristgpt.dk"
+              />
+              <PortfolioCard
                 title="AIHeadshots"
                 description="Professional AI Edited Photographs."
                 link="https://www.aiheadshot.dk"                
