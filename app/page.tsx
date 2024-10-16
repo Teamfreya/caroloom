@@ -3,7 +3,7 @@
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
-import { ArrowRight, ChevronDown, ExternalLink ,MountainIcon, SquareIcon, HandCoinsIcon, Wrenchicon, Activityicon} from "lucide-react";
+import { ArrowRight, ChevronDown, ExternalLink ,MountainIcon, SquareIcon, HandCoinsIcon, WrenchIcon, ActivityIcon} from "lucide-react";
 import Link from "next/link";
 
 function CaroloomLandingPageComponent() {
@@ -102,7 +102,7 @@ function CaroloomLandingPageComponent() {
                 </p>
               </div>
               <div className="flex flex-col items-center text-center">
-                <Wrenchicon className="h-12 w-12 mb-4 text-gray-900 dark:text-gray-50" />
+                <WrenchIcon className="h-12 w-12 mb-4 text-gray-900 dark:text-gray-50" />
                 <h3 className="text-xl font-bold">Build</h3>
                 <p className="mt-2 text-sm text-gray-500 dark:text-gray-400">
                   We help scale these businesses, providing the technical,
@@ -110,7 +110,7 @@ function CaroloomLandingPageComponent() {
                 </p>
               </div>
               <div className="flex flex-col items-center text-center">
-                <Activityicon className="h-12 w-12 mb-4 text-gray-900 dark:text-gray-50" />
+                <ActivityIcon className="h-12 w-12 mb-4 text-gray-900 dark:text-gray-50" />
                 <h3 className="text-xl font-bold">Operate</h3>
                 <p className="mt-2 text-sm text-gray-500 dark:text-gray-400">
                   With hands-on involvement, we optimize performance, ensuring
