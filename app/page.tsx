@@ -3,7 +3,7 @@
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
-import { ArrowRight, ChevronDown, CircleIcon, ExternalLink ,MountainIcon, SquareIcon, TriangleIcon} from "lucide-react";
+import { ArrowRight, ChevronDown, CircleIcon, ExternalLink ,MountainIcon, SquareIcon, HandCoinsIcon} from "lucide-react";
 import Link from "next/link";
 
 function CaroloomLandingPageComponent() {
@@ -94,7 +94,7 @@ function CaroloomLandingPageComponent() {
             </p>
             <div className="mt-8 grid gap-8 md:grid-cols-3">
               <div className="flex flex-col items-center text-center">
-                <CircleIcon className="h-12 w-12 mb-4 text-gray-900 dark:text-gray-50" />
+                <HandCoinsIcon className="h-12 w-12 mb-4 text-gray-900 dark:text-gray-50" />
                 <h3 className="text-xl font-bold">Acquire</h3>
                 <p className="mt-2 text-sm text-gray-500 dark:text-gray-400">
                   We identify and invest in promising software ventures with
