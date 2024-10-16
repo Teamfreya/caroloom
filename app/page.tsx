@@ -195,7 +195,7 @@ function CaroloomLandingPageComponent() {
                 For any inquiries, feel free to contact us at
                 <a 
                   href="mailto:Support@caroloom.com" 
-                  className="text-primary font-medium underline ml-1 text-gray-100">
+                  className="text-gray-100 font-medium underline ml-1 hover:text-gray-200">
                   Support@caroloom.com
                 </a>.
               </p>
