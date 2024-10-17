@@ -51,7 +51,7 @@ function CaroloomLandingPageComponent() {
                   Caroloom
                 </h1>
                 <p className="mx-auto max-w-[700px] text-gray-500 md:text-xl dark:text-gray-400">
-                  Where AI Meets Innovation
+                  Where Creation Happens.
                 </p>
               </div>
             </div>
@@ -68,7 +68,7 @@ function CaroloomLandingPageComponent() {
               About Us
             </h2>
             <p className="mt-4 max-w-[700px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400 mx-auto">
-              At Caroloom, we are an AI-first company dedicated to buying,
+              At Caroloom, we are an AI-first company based in Copenhagen, Denmark. We are dedicated to buying,
               building, and operating cutting-edge software businesses. Our
               mission is to transform industries by leveraging the power of
               artificial intelligence and technology innovation.
