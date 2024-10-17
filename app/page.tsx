@@ -152,7 +152,7 @@ function CaroloomLandingPageComponent() {
                 link="https://www.juristgpt.dk"
               />
               <PortfolioCard
-                title="AIHeadshots"
+                title="AIHeadshots DK"
                 description="Professional AI Edited Photographs."
                 link="https://www.aiheadshot.dk"                
               />
@@ -168,8 +168,13 @@ function CaroloomLandingPageComponent() {
               />
               <PortfolioCard
                 title="TeoriGPT"
-                description="AI-driven theory preparation for various subjects in Denmark."
+                description="AI-driven theory preparation for learning drivers in Denmark."
                 link="https://www.teorigpt.dk"
+              />
+              <PortfolioCard
+                title="AiHeadshots NO"
+                description="rofessional AI Edited Photographs."
+                link="https://www.Aiheadshots.no"
               />
               <PortfolioCard
                 title="BoligGPT TBD"
