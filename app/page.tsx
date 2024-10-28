@@ -173,7 +173,7 @@ function CaroloomLandingPageComponent() {
               />
               <PortfolioCard
                 title="AiHeadshots NO"
-                description="rofessional AI Edited Photographs."
+                description="Professional AI Edited Photographs."
                 link="https://www.Aiheadshots.no"
               />
               <PortfolioCard
