@@ -132,7 +132,7 @@ function CaroloomLandingPageComponent() {
             </h2>
             <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
               <PortfolioCard
-                title="KlinikGPT beta"
+                title="KlinikGPT TBD"
                 description="AI-powered healthcare solutions for clinics in Denmark."
                 link="https://www.klinikgpt.dk"
               />
@@ -147,8 +147,8 @@ function CaroloomLandingPageComponent() {
                 link="https://www.klinikgpt.se"
               />
               <PortfolioCard
-                title="Jurist GPT TBD"
-                description="Get Instant Answers to Your Legal Questions."
+                title="Jurist GPT "
+                description="Get Instant Answers to Your Danish Legal Questions."
                 link="https://www.juristgpt.dk"
               />
               <PortfolioCard
@@ -177,9 +177,19 @@ function CaroloomLandingPageComponent() {
                 link="https://www.Aiheadshots.no"
               />
               <PortfolioCard
-                title="BoligGPT TBD"
+                title="BoligGPT"
                 description="AI solutions for the real estate market in Denmark."
                 link="https://www.boliggpt.dk"
+              />
+              <PortfolioCard
+                title="PulpitPro"
+                description="AI assistant for Pastors and Preachers."
+                link="https://www.pulpitpro.io"
+              />
+              <PortfolioCard
+                title="Creator Rewards Program"
+                description="Our Creator rewards program for Nordic content creators."
+                link="https://special-sparrow-218.notion.site/Caroloom-Creator-Rewards-Program-14f89ac9382f80d4b431cfb47a618426?pvs=4"
               />
             </div>
           </div>
