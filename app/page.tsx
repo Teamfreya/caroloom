@@ -137,6 +137,11 @@ function CaroloomLandingPageComponent() {
                 link="https://englishtheoryprep.dk"
               />
               <PortfolioCard
+                title="Nesty "
+                description="Find Rental Homes in Denmark Easily with AI-Powered Search."
+                link="https://www.Nesty.dk"
+                />
+              <PortfolioCard
                 title="Jurist GPT "
                 description="Get Instant Answers to Your Danish Legal Questions."
                 link="https://www.juristgpt.dk"
