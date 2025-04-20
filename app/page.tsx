@@ -139,17 +139,7 @@ function CaroloomLandingPageComponent() {
               <PortfolioCard
                 title="Nesty "
                 description="Find Rental Homes in Denmark Easily with AI-Powered Search."
-                link="https://www.Nesty.dk"
-                />
-              <PortfolioCard
-                title="Jurist GPT "
-                description="Get Instant Answers to Your Danish Legal Questions."
-                link="https://www.juristgpt.dk"
-              />
-              <PortfolioCard
-                title="AIHeadshots DK"
-                description="Professional AI Edited Photographs."
-                link="https://www.aiheadshot.dk"                
+                link="https://www.Nesty.dk"               
               />
               <PortfolioCard
                 title="Nordic Beauty"
@@ -162,19 +152,14 @@ function CaroloomLandingPageComponent() {
                 link="https://www.teorigpt.dk"
               />
               <PortfolioCard
-                title="AiHeadshots NO"
-                description="Professional AI Edited Photographs."
-                link="https://www.Aiheadshots.no"
-              />
-              <PortfolioCard
                 title="BoligGPT"
                 description="AI solutions for the real estate market in Denmark."
                 link="https://www.boliggpt.dk"
-              />
+              />              
               <PortfolioCard
-                title="PulpitPro"
-                description="AI assistant for Pastors and Preachers."
-                link="https://www.pulpitpro.io"
+                title="FitGig"
+                description="Fitgig is the platform where fitness instructors find better gigs, and studios find the right talent — fast, flexible, and without the friction."
+                link="https://www.fitgig.dk"
               />
               <PortfolioCard
                 title="Creator Rewards Program"
