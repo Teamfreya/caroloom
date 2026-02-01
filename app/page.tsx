@@ -134,7 +134,7 @@ function CaroloomLandingPageComponent() {
               <PortfolioCard
                 title="English Theory Prep"
                 description="AI-assisted danish theory driving preparation for english speakers in denmark."
-                link="https://englishtheoryprep.dk"
+                link="https://englishtheorytest.dk/"
               />
               <PortfolioCard
                 title="Nesty "
@@ -152,9 +152,9 @@ function CaroloomLandingPageComponent() {
                 link="https://www.teorigpt.dk"
               />
               <PortfolioCard
-                title="BoligGPT"
-                description="AI solutions for the real estate market in Denmark."
-                link="https://www.boliggpt.dk"
+                title="Aivo"
+                description="Ai Powered Nordic keyboard"
+                link="https://aivo.eu"
               />              
               <PortfolioCard
                 title="FitGig"
