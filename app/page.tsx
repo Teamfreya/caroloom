@@ -132,24 +132,14 @@ function CaroloomLandingPageComponent() {
             </h2>
             <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
               <PortfolioCard
-                title="English Theory Prep"
-                description="AI-assisted danish theory driving preparation for english speakers in denmark."
-                link="https://englishtheorytest.dk/"
-              />
-              <PortfolioCard
-                title="Nesty "
-                description="Find Rental Homes in Denmark Easily with AI-Powered Search."
-                link="https://www.Nesty.dk"               
+                title="Core App"
+                description="AI-powered driving theory test for both Danish and English learners. Available on iOS."
+                link="https://apps.apple.com/app/core-app"
               />
               <PortfolioCard
                 title="Nordic Beauty"
                 description="Denmarks most popular aesthetics podcast"
                 link="https://open.spotify.com/show/1DOxGFuSVE4QFJwya1Kckr"
-              />
-              <PortfolioCard
-                title="TeoriGPT"
-                description="AI-driven theory preparation for learning drivers in Denmark."
-                link="https://www.teorigpt.dk"
               />
               <PortfolioCard
                 title="Aivo"
@@ -160,11 +150,6 @@ function CaroloomLandingPageComponent() {
                 title="FitGig"
                 description="Fitgig is the platform where fitness instructors find better gigs, and studios find the right talent — fast, flexible, and without the friction."
                 link="https://www.fitgig.dk"
-              />
-              <PortfolioCard
-                title="Creator Rewards Program"
-                description="Our Creator rewards program for Nordic content creators."
-                link="https://special-sparrow-218.notion.site/Caroloom-Creator-Rewards-Program-14f89ac9382f80d4b431cfb47a618426?pvs=4"
               />
             </div>
           </div>
@@ -240,30 +225,5 @@ function PortfolioCard({ title, description, link }: PortfolioCardProps) {
     </div>
   );
 }
-
-// function ArrowRightIcon(props) {
-//   /* Define icon paths */
-// }
-// function BrainCircuitIcon(props) {
-//   /* Define icon paths */
-// }
-// function BuildingIcon(props) {
-//   /* Define icon paths */
-// }
-// function CircleIcon(props) {
-//   /* Define icon paths */
-// }
-// function MountainIcon(props) {
-//   /* Define icon paths */
-// }
-// function SquareIcon(props) {
-//   /* Define icon paths */
-// }
-// function TrendingUpIcon(props) {
-//   /* Define icon paths */
-// }
-// function TriangleIcon(props) {
-//   /* Define icon paths */
-// }
 
 export default CaroloomLandingPageComponent;
