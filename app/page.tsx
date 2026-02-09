@@ -1,18 +1,14 @@
 "use client";
 
-import { Button } from "@/components/ui/button";
-import { Input } from "@/components/ui/input";
-import { Textarea } from "@/components/ui/textarea";
-import { ArrowRight, ChevronDown, ExternalLink ,MountainIcon, SquareIcon, HandCoinsIcon, WrenchIcon, ActivityIcon} from "lucide-react";
+import { ExternalLink, HandCoinsIcon, WrenchIcon, ActivityIcon } from "lucide-react";
 import Link from "next/link";
 
 function CaroloomLandingPageComponent() {
   return (
     <div className="flex flex-col min-h-screen bg-gradient-to-b from-blue-50 to-pink-50 justify-center items-center">
       <header className="flex justify-center items-center px-4 lg:px-6 h-14">
-        <Link className="flex items-center justify-center" href="#">
-          <MountainIcon className="h-6 w-6" />
-          <span className="sr-only">Caroloom</span>
+        <Link className="flex items-center justify-center font-bold text-xl mr-6" href="#">
+          Caroloom
         </Link>
         <nav className="flex gap-4 sm:gap-6">
           <Link
@@ -138,17 +134,17 @@ function CaroloomLandingPageComponent() {
               />
               <PortfolioCard
                 title="Nordic Beauty"
-                description="Denmarks most popular aesthetics podcast"
+                description="Denmark's most popular aesthetics podcast."
                 link="https://open.spotify.com/show/1DOxGFuSVE4QFJwya1Kckr"
               />
               <PortfolioCard
                 title="Aivo"
-                description="Ai Powered Nordic keyboard"
+                description="AI-powered Nordic keyboard."
                 link="https://aivo.eu"
               />              
               <PortfolioCard
                 title="FitGig"
-                description="Fitgig is the platform where fitness instructors find better gigs, and studios find the right talent — fast, flexible, and without the friction."
+                description="The platform where fitness instructors find better gigs, and studios find the right talent — fast, flexible, and without the friction."
                 link="https://www.fitgig.dk"
               />
             </div>
@@ -181,16 +177,8 @@ function CaroloomLandingPageComponent() {
       </main>
       <footer className="flex flex-col sm:flex-row justify-center items-center py-6 w-full px-4 md:px-6 border-t">
         <p className="text-xs text-gray-500 dark:text-gray-400">
-          © 2025 Caroloom. All rights reserved.
+          © 2026 Caroloom. All rights reserved.
         </p>
-        <nav className="sm:ml-auto flex gap-4 sm:gap-6">
-          <Link className="text-xs hover:underline underline-offset-4" href="#">
-            Terms of Service
-          </Link>
-          <Link className="text-xs hover:underline underline-offset-4" href="#">
-            Privacy
-          </Link>
-        </nav>
       </footer>
     </div>
   );
