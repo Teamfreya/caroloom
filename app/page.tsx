@@ -132,9 +132,9 @@ function CaroloomLandingPageComponent() {
             </h2>
             <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
               <PortfolioCard
-                title="Core App"
+                title="KørApp"
                 description="AI-powered driving theory test for both Danish and English learners. Available on iOS."
-                link="https://apps.apple.com/app/core-app"
+                link="https://apps.apple.com/dk/app/k%C3%B8rapp/id6758728183"
               />
               <PortfolioCard
                 title="Nordic Beauty"
