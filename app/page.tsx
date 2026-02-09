@@ -154,8 +154,8 @@ function CaroloomLandingPageComponent() {
               />
               <PortfolioCard
                 title="Aivo"
-                description="AI-powered Nordic keyboard."
-                link="https://aivo.eu"
+                description="Voice-to-text keyboard for Nordic languages with AI-powered text processing."
+                link="https://aivolabs.eu/"
                 tag="iOS App"
                 tagColor="bg-blue-500"
               />
