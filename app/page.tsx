@@ -30,6 +30,14 @@ const portfolio = [
     domain: "Fitness",
   },
   {
+    title: "NN Media",
+    description:
+      "The first AI end-to-end newsroom serving Nordic news in English. Fully automated pipeline from sourcing to production.",
+    link: "https://www.tiktok.com/@nordicnewshq",
+    tag: "Newsroom",
+    domain: "Media",
+  },
+  {
     title: "Nordic Beauty",
     description:
       "Denmark's leading aesthetics podcast. Conversations with top practitioners about treatments, trends, and the science behind beauty.",
@@ -126,7 +134,7 @@ export default function Page() {
         <section className="border-y border-gray-100">
           <div className="max-w-6xl mx-auto px-6 py-12 grid grid-cols-2 md:grid-cols-4 gap-8 md:gap-12">
             <div>
-              <div className="text-3xl md:text-4xl font-bold tracking-tight">4</div>
+              <div className="text-3xl md:text-4xl font-bold tracking-tight">5</div>
               <div className="text-sm text-gray-500 mt-1">Products</div>
             </div>
             <div>
@@ -265,10 +273,10 @@ export default function Page() {
               just want to learn more about what we do?
             </p>
             <a
-              href="mailto:hello@caroloom.com"
+              href="mailto:support@caroloom.com"
               className="inline-flex items-center gap-2 px-7 py-3.5 bg-gray-900 text-white rounded-full text-sm font-medium hover:bg-gray-800 transition-colors"
             >
-              hello@caroloom.com
+              support@caroloom.com
             </a>
           </div>
         </section>

@@ -66,7 +66,7 @@ export default function RootLayout({
               },
               contactPoint: {
                 "@type": "ContactPoint",
-                email: "hello@caroloom.com",
+                email: "support@caroloom.com",
                 contactType: "general",
               },
             }),
